@@ -4,7 +4,7 @@ Contracts to manage crowdsale of Kasei Token
 ---
 
 ## Overview
-[Solidity](https://docs.soliditylang.org/en/v0.8.13/) smart contract was authored to model a [KaseiCoin Crowdsale](/app/KaseiCoinCrowdsale.sol). [Screenshots](/README.md) were taken of the contract execution and output.   
+[Solidity](https://docs.soliditylang.org/en/v0.8.13/) smart contracts, modeling a [KaseiCoin Token Crowdsale](/app/KaseiCoinCrowdsale.sol). [Screenshots](/README.md) were taken of the contract execution and output.   
 
 See [installation](#installation) and [usage](#usage) below for specifics.  
 
