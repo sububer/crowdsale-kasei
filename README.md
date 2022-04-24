@@ -8,7 +8,7 @@ Contracts to manage crowdsale of Kasei Token
 
 See [installation](#installation) and [usage](#usage) below for specifics.
 
-See [Evaluation Evidence](/results/README.md) for proof of deployment and functionality.  
+See [Evaluation Evidence](/results/README.md#evaluation-evidence) for proof of deployment and functionality.  
 
 ---
 
@@ -30,7 +30,7 @@ See [Evaluation Evidence](/results/README.md) for proof of deployment and functi
 
 ## Evaluation Evidence
 
-See all screenshots and videos of contract deployment and usage in [Evaluation Evidence](/results/README.md)  
+See all screenshots and videos of contract deployment and usage in [Evaluation Evidence](/results/README.md#evaluation-evidence)   
 
 
 ---
@@ -59,7 +59,7 @@ Docs and download Ganache from [Ganache](https://trufflesuite.com/ganache/)
 2. Compile contract
 3. Deploy to either javascript vm or local web3 address provider like ganache
 4. Execute deployed contract functionality via the remix IDE
-5. See [Evaluation Evidence](/results/README.md) for details  
+5. See [Evaluation Evidence](/results/README.md#evaluation-evidence) for details  
 
 ---
 

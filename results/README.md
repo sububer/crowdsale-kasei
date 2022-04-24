@@ -4,7 +4,7 @@ Screenshots and recordings demonstrating deployment and functionality of the con
 - [Compilation](#compilation-of-contracts)
 - [Deployment](#deployment-of-the-contracts-to-a-local-blockchain-with-remix-metamask-and-ganache)
 - [Interacting](#using-test-accounts-to-buy-new-tokens-from-crowdsale-and-checking-the-balances)
-- [Check Supply/Balance](#checking-total-supply-and-wei-raised)  
+- [Validate Supply/Balance](#checking-total-supply-and-wei-raised)  
 
 ---
 ## Compilation of Contracts  
